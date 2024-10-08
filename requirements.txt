@@ -1,0 +1,13 @@
+pandas
+langchain-core
+langchain-openai
+langchain_experimental
+python-dotenv
+streamlit
+pillow
+langchain
+langchain-community
+pyodbc
+sqlalchemy
+tabulate
+ 
