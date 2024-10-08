@@ -14,6 +14,8 @@ Author: Diego Martos
 5. Running the Application
 6. Next Steps
 
+![alt text](images/ArchitectureDiagram_Flow.jpg)
+
 ---
 
 ### Step 1: POC Overivew
@@ -126,6 +128,8 @@ Action 4 of 4: If all previous steps were done successfully, you should be able 
 ![alt text](images/streamlit_run_command.jpg)
 
 Success!!! Now you can start interacting with your application
+
+![alt text](images/Chat_WithYourData_UploadFile.jpg)
 
 ---
 
