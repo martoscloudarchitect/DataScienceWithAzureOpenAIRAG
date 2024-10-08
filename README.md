@@ -41,7 +41,9 @@ Potential Use Cases:
 - Promoting data literacy and democracy.
 - Identify other (new) relevant use cases.
 
+Here are some examples of how this tool helps with familiarization and inspiring the curiosity to correlate with possible use cases of relevance to your own scenarios:
 
+![alt text](images/Automatic_Manual_Input_Output.jpg)
 
 ---
 
