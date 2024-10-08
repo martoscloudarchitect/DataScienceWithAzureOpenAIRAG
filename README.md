@@ -1,4 +1,4 @@
-# Empowering data Science with Large Language Models (LLM) - Proof of Concept
+# Empowering Data Science with Large Language Models (LLM) - Proof of Concept
 Author: Diego Martos
 
 (last update: 2024/10/08)
