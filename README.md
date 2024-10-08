@@ -3,6 +3,21 @@ Author: Diego Martos
 
 (last update: 2024/10/08)
 
+The EDA project aims to enrich the Data Science experience by leveraging Azure Cloud-based AI/ML resources. This initiative is designed to inspire creativity, curiosity, and empowerment within the team, enabling them to utilize Large Language Models (LLM) to enhance end-user experiences with minimal to no data science skills.
+
+This has been thought as a ready to deploy base code, and it assumes some pre-requsites to be fully and successfully leverage to aid on your competence skills combining the best of the three worlds:
+- Data Science and Power of Data Insights
+- Azure Cloud Computing
+- Artificial Inteligence and Machine Learning (AIML)
+
+To be successful, it is recommended (but not necessary) a minimum familiarization with the following :
+- Python Skills (basic - to - intermediate)
+- AIML Fundamentals
+- Azure Cloud Computing Fundamentals
+- Data Science Fundamentals
+
+![alt text](images/ArchitectureDiagram_Flow.jpg)
+
 ---
 
 ## Table of Contents
@@ -13,8 +28,7 @@ Author: Diego Martos
 4. Update the python code settings
 5. Running the Application
 6. Next Steps
-
-![alt text](images/ArchitectureDiagram_Flow.jpg)
+7. Supporting Documentation
 
 ---
 
@@ -22,7 +36,7 @@ Author: Diego Martos
 
 Project Definition: Exploratory Data Analytics (EDA)
 
-The EDA project aims to enrich the Data Science experience by leveraging Azure Cloud-based AI/ML resources. This initiative is designed to inspire creativity, curiosity, and empowerment within the team, enabling them to utilize Large Language Models (LLM) to enhance end-user experiences with minimal to no data science skills. By employing a data science assessment methodology, the project seeks to drive exploration of data sources and identify potential target audiences for a Proof of Concept (PoC) with perceived business value.
+. By employing a data science assessment methodology, the project seeks to drive exploration of data sources and identify potential target audiences for a Proof of Concept (PoC) with perceived business value.
 
 ![alt text](images/Successful_Launch.jpg)
 
@@ -195,4 +209,15 @@ Monitoring and Metrics
 - Application Insights: Track performance metrics, error rates, and user behavior to gain insights into application performance and user experience.
 - API Management: Monitor API usage, response times, and error rates to ensure efficient and secure API operations.
 
+---
 
+## Supporting Documentation
+
+### Recommended Videos that Inspired this Asset:
+- Building an AI Data Assistant with Streamlit, LangChain and OpenAI - https://www.youtube.com/watch?v=CBRE_Me1IQ0&list=PLPrPDH0IeIfmsGfyBWsYQkH64Nnb7v2UH
+- CrewAI Step-by-Step | Complete Course for Beginners - https://www.youtube.com/watch?v=kBXYFaZ0EN0&list=PLPrPDH0IeIfmsGfyBWsYQkH64Nnb7v2UH
+
+### Recommended Official Documentation
+- AZ-900, Microsoft Azure Fundamentals - https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
+- Microsoft AI Fundamentals - https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/
+- Microsoft Azure Applied Skills - https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills
