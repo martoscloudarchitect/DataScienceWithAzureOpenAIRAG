@@ -5,7 +5,7 @@ Author: Diego Martos
 
 The EDA project aims to enrich the Data Science experience by leveraging Azure Cloud-based AI/ML resources. This initiative is designed to inspire creativity, curiosity, and empowerment within the team, enabling them to utilize Large Language Models (LLM) to enhance end-user experiences with minimal to no data science skills.
 
-This has been thought as a ready to deploy base code, and it assumes some pre-requsites to be fully and successfully leverage to aid on your competence skills combining the best of the three worlds:
+This has been thought as a ready to deploy base code, and it assumes some pre-requsites to be fully and successfully leveraged by someone with certain familiarity and experience with some key competences, in order to aid on your competence skills combining the best of the three worlds:
 - Data Science and Power of Data Insights
 - Azure Cloud Computing
 - Artificial Inteligence and Machine Learning (AIML)
